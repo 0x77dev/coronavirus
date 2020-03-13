@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Get Total Confirmed Count."
+    "description": "Get Total Confirmed Count.",
+    "githubUrl": "https://github.com/0x77dev/coronavirus"
   }
 }
