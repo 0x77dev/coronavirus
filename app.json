@@ -4,11 +4,7 @@
     "slug": "coronavirus-status",
     "privacy": "public",
     "sdkVersion": "36.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,13 +16,12 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
+      "bundleIdentifier": "page.0x77.coronavirus",
       "supportsTablet": true
     },
-    "description": "Get Total Confirmed Count.",
+    "description": "Track Situation Right From Your Pocket",
     "githubUrl": "https://github.com/0x77dev/coronavirus"
   }
 }
