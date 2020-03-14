@@ -1,4 +1,4 @@
-# Coronavirus
+# Coronavirus 2.0
 
 ![Social Preview](<https://raw.githubusercontent.com/0x77dev/coronavirus/master/assets/Social%20preview%20(Github).png> "Social Preview")
 
