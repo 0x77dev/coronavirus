@@ -1,6 +1,7 @@
-# coronavirus
+# Coronavirus
 
-![alt text](./assets/Social preview (Github) "Social Preview")
+![alt text](<https://raw.githubusercontent.com/0x77dev/coronavirus/master/assets/Social%20preview%20(Github).png> "Social Preview")
 
 Track Situation Right From Your Pocket
-React Native App To Coronavirus Status.
+
+React Native (Expo) App To Track Coronavirus Status.
