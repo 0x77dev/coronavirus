@@ -17,6 +17,9 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "io.marinenko.coronavirus"
+    },
     "ios": {
       "bundleIdentifier": "page.0x77.coronavirus",
       "supportsTablet": true
