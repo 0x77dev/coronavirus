@@ -6,7 +6,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~36.0.0",
+    "expo": "~40.0.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "~0.61.4",
