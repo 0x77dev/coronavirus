@@ -18,7 +18,7 @@
     "axios": "^0.19.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.13.10",
     "babel-jest": "~24.9.0",
     "jest": "~24.9.0",
     "metro-react-native-babel-preset": "~0.56.0",
